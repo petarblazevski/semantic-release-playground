@@ -1,0 +1,7 @@
+{
+  "name": "semantic-release-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Petar Blazhevski <pblazhevski@mobiquityinc.com>",
+  "license": "MIT"
+}
